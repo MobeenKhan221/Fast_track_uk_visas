@@ -5,7 +5,7 @@ Welcome to the Fast Track UK Visas International Agency website repository! This
 
 ## Table of Contents
 
-- [Introduction](#golden-diligent-international-agency-website)
+- [Introduction](#Fast-Track-Uk-Visas-website)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
@@ -28,13 +28,6 @@ Welcome to the Fast Track UK Visas International Agency website repository! This
 - Bootstrap 5: Front-end framework for a responsive design.
 
 ## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/golden-diligent-website.git
-   ```
-````
 
 2. Open the `index.html` file in your web browser to view the website locally.
 
@@ -60,3 +53,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 Make sure to replace placeholders such as `your-username` with the appropriate information. Additionally, if your project has specific guidelines or best practices, you might want to include them in the README file.
 ```
+````
